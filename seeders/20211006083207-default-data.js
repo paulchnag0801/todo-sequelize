@@ -33,7 +33,6 @@ module.exports = {
             UserId: userId,
             createdAt: new Date(),
             updatedAt: new Date(),
-            isDone: false,
           })),
           {}
         )
